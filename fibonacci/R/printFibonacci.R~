@@ -1,0 +1,3 @@
+printFibonacci <- function(n){
+    .Call(print_fibonacci, as.integer(n))
+}

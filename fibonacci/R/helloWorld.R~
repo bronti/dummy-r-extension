@@ -1,0 +1,5 @@
+helloWorld <- function() {
+    .Call(hello_world) 
+}
+
+

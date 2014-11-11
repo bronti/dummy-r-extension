@@ -1,0 +1,6 @@
+fibonacci.helloWorld <- function() {
+   out <- .Call("hello_world") 
+   return(out)
+}
+
+
