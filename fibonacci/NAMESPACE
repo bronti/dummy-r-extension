@@ -1,5 +1,0 @@
-useDynLib(fibonacci, hello_world, print_fibonacci, get_fibonacci)
-
-export(helloWorld)
-export(printFibonacci)
-export(getFibonacci)
